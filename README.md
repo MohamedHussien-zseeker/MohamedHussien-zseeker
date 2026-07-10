@@ -1,16 +1,19 @@
-- 👋 Hi, I’m @MohamedHussien-zseeker
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning fundamentals of penetration testing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Hackers prefer using port 9001 over port 9000 because, in the world of digital mischief,
--  9001 is like the secret backdoor. Port 9000 is too mainstream—used by legitimate services and easier to spot by security systems.
--   But port 9001? It’s like the sneaky alleyway, less crowded and under the radar. So, if you ever see traffic on port 9001,
--   it’s probably not just someone streaming their favorite show...
--  unless, of course, they’re hiding something else in the shadows.
+# Mohamed Hussien
 
-<!---
-MohamedHussien-zseeker/MohamedHussien-zseeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Cybersecurity learner and builder focused on AI systems, local-first tools, and developer infrastructure.
+
+## Featured Projects
+
+- **[ContextLedger](https://github.com/MohamedHussien-zseeker/ContextLedger)** — Git for AI memory. Local-first, human-editable memory infrastructure for AI agents. CLI, REST API, and MCP server. GPL-3.0 licensed.
+- **[ai-dev-brain-kit](https://github.com/MohamedHussien-zseeker/ai-dev-brain-kit)** — CLI for personal knowledge management. Session handoffs and context preservation across coding sessions.
+- **[SaveSync](https://github.com/MohamedHussien-zseeker/SaveSync)** — Automatic backup, sync, and restore for PC game saves. Windows and Linux.
+
+## Current Focus
+
+- AI memory infrastructure
+- Secure local-first tooling
+- Release automation and open-source hygiene
+
+## Contact
+
+- GitHub: [@MohamedHussien-zseeker](https://github.com/MohamedHussien-zseeker)
